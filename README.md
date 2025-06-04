@@ -16,7 +16,7 @@ BookHaven is a web-based application built with ASP.NET Core, designed to help a
 - **Database:** SQL Server / Entity Framework Core
 - **Authentication:** Custom user management
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 Here are some of the screenshots showcasing the BookHaven user interface.  
 All images are stored in the `assets/` directory of this project.  
 
@@ -43,6 +43,8 @@ All images are stored in the `assets/` directory of this project.
 
 ### Logs
 ![Logs](assets/admin/logs.png)
+
+---  
 
 ## User's End  
 ### Login
